@@ -24,7 +24,7 @@ const greeting = {
   //nickname: "n-explorer",
   subTitle:
     "I am a passionate individual who always thrives to work on development in new fields to create impact especially in machine learning and deep learning.",
-  resumeLink: "https://drive.google.com/file/d/1y2ITCfg5jQTbBjGwBSVVfT5nRqmq6JbV/view?usp=share_link",
+  resumeLink: "https://drive.google.com/file/d/1JcqZRRHs908lcQf0nenOuaupdzxzilZb/view?usp=drive_link",
    // "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
   portfolio_repository: "https://github.com/RishitaMitra",
   githubProfile: "https://github.com/RishitaMitra",
@@ -90,8 +90,8 @@ const skills = {
       title: "Machine Learning and AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing project on nowadays problem of anamoly by using various deep learning library like YOLO, PyTorch etc.",
-        "⚡ Experience of working with pose estimation and optical-flow in project",
+        "⚡ Developing project on Anomaly Detection by estimating pose of persons by using Machine Learning classifier and library like YOLO, PyTorch etc.",
+        "⚡ Build project to Detect Distress for ensuring women safety by using Optical-Flow, Computer Vision.",
         //"⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
@@ -375,8 +375,8 @@ const degrees = {
       duration: "2020 - 2024",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like OOPs, DSA, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning and Full Stack Development.",
-        "⚡ Skillset: Python, Java, Machine Learning, React.js, NodeJS, Express.",
+        "⚡ Apart from this, I have done courses on Machine Learning and Deep Learning.",
+        "⚡ Skillset: OOPs, DBMS, Machine Learning, Python, Java, C, React.js",
        // "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
       website_link: "http://www.ticollege.ac.in/",
@@ -547,23 +547,23 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Machine Learning Intern",
+          title: "Intern",
           company: "Centre for Development of Advanced Computing (C-DAC)",
-          company_url: "https://cdac.in/",
+          company_url: "https://drive.google.com/file/d/1N5TIrbOE3vezoALk30aimh_PvJHtZWBn/view?usp=drive_link",
           logo_path: "CDAC_logo.png",
-          duration: "Sept 2022 - Present",
+          duration: "Aug 2022 - April 2023",
           location: "Kolkata",
           description:
-            "I am currently working on a project that is based on any type of anamoly which can occur nowadays. Main moto of the projects is to estimate the pose of a preson and detect the anamoly, also used optical-flow algos for accuracy",
+            "I have worked on two projects in CDAC pose estimation for anomaly detection and distress detection for ensuring women safety.",
           color: "#ee3c26",
         },
         {
-          title: "Motor Imagery Intern",
+          title: "Intern",
           company: "Jadavpur University (JU)",
           company_url:
             "https://jadavpuruniversity.in/academics/computer-science-engineering/",
           logo_path: "JU_logo.png",
-          duration: "Dec 2022 - Present",
+          duration: "March 2022 - Present",
           location: "Jadavpur",
           description:
             "I’m currently working on this project based on motor imagery to recognize mental states from EEG signals in Brain Computer Interfaces under the guidance of one of the professors in Jadavpur University(DEPT- CSE).",
